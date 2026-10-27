@@ -1,0 +1,18 @@
+# Terraform state and local configuration
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+*.tfvars
+crash.log
+crash.*.log
+.terraform.lock.hcl
+
+# Secrets and private keys
+.env
+*.pem
+*.key
+
+# Editor and OS files
+.vscode/
+.DS_Store
