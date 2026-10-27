@@ -104,9 +104,8 @@ soc-lab-aws/
 ├── README.md
 ├── docs/
 │   └── incident-report.md
-├── rules/
-│   └── soc_lab_traversal_rules.xml
-└── screenshots/
+ ── rules/
+    └── soc_lab_traversal_rules.xml
 ```
 
 ## Future Improvements

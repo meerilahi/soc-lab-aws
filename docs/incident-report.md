@@ -33,8 +33,8 @@ Record the following values from the Wazuh alert:
 - **Event type:** `file_read`
 - **HTTP status:** `200`
 - **Request:** `/read?file=..%2fsynthetic-secret.txt`
-- **Event timestamp:** [Insert `data.timestamp` from the alert]
-- **Alert timestamp:** [Insert the Wazuh alert timestamp]
+- **Event timestamp:** Oct 28, 2026 @ 00:07:49.972
+- **Alert timestamp:** Oct 28, 2026 @ 00:07:51.650
 
 Sanitize the client IP address before publishing this report.
 
