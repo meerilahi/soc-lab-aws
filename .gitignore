@@ -7,7 +7,7 @@ terraform.tfvars
 crash.log
 crash.*.log
 .terraform.lock.hcl
-
+guide.md
 # Secrets and private keys
 .env
 *.pem
